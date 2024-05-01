@@ -13,13 +13,14 @@ The project includes:
 - Data preprocessing: Cleaning and transforming raw taxi trip data for RL training in `taxi_trips.ipynb`.  
 - Environment setup: Creating a simulated taxi hailing service environment for RL agent interaction in `RLProject.ipynb`.  
 - RL algorithms: Implementing various RL algorithms, including Q-learning, SARSA, deep Q-learning, and double deep Q-learning in `RLProject.ipynb`.  
-- Evaluation: Assessing the performance of RL agents in maximizing taxi driver profits using metrics such as reward mean and reward standard deviation in `RL Report.pdf`.  
+- Evaluation: Assessing the performance of RL agents in maximizing taxi driver profits using metrics such as reward mean and reward standard deviation in `RL_Report.pdf`.  
 
 ## Usage
 
 To use the code in this repository:
 
 1. Clone the repository to your local machine.  
+2. Make sure to have the `Statistics.csv` file from data folder inthe same directory as the `RLProject.ipynb` before you run it.  
 3. Run the main scripts for data preprocessing, environment setup, and RL algorithm training.  
 4. Evaluate the trained RL agents and analyze their performance for yourself.  
 
