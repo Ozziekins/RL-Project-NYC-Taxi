@@ -11,8 +11,8 @@ Taxi drivers have to decide which trips to accept to maximize their daily earnin
 The project includes:
 
 - Data preprocessing: Cleaning and transforming raw taxi trip data for RL training in `taxi_trips.ipynb`.  
-- Environment setup: Creating a simulated taxi hailing service environment for RL agent interaction in `.ipynb`.  
-- RL algorithms: Implementing various RL algorithms, including Q-learning, SARSA, deep Q-learning, and double deep Q-learning in `.ipynb`.  
+- Environment setup: Creating a simulated taxi hailing service environment for RL agent interaction in `RLProject.ipynb`.  
+- RL algorithms: Implementing various RL algorithms, including Q-learning, SARSA, deep Q-learning, and double deep Q-learning in `RLProject.ipynb`.  
 - Evaluation: Assessing the performance of RL agents in maximizing taxi driver profits using metrics such as reward mean and reward standard deviation in `RL Report.pdf`.  
 
 ## Usage
