@@ -1,0 +1,3 @@
+https://www.andresmh.com/nyctaxitrips/
+
+use only trip_data_1.csv and trip_fare_1.csv
